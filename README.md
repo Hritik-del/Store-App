@@ -1,6 +1,5 @@
 # Store-App
-
-Made an android application using Firebase Cloud Storage and Firebase Realtime Database for storing details of any shop(name, shop images, pan card, and account details) and displaying them. Also perform CRUD operations on them.
+# Made an android application using Firebase Cloud Storage and Firebase Realtime Database for storing details of any shop(name, shop images, pan card, and account details) and displaying them. Also perform CRUD operations on them.
 
 
 
